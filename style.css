@@ -54,6 +54,7 @@ h2{
 }
 
 button{
+    /*margin-left: 10px;*/
     background-color: #24a0ed;
     color: #fff;
     border-radius: 40px;
@@ -72,6 +73,7 @@ ul li{
     user-select: none;
     position: relative;
     overflow-wrap: break-word;
+    text-align: justify;
 }
 
 ul li::before{
