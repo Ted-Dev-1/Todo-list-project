@@ -71,6 +71,7 @@ ul li{
     cursor: pointer;
     user-select: none;
     position: relative;
+    overflow-wrap: break-word;
 }
 
 ul li::before{
