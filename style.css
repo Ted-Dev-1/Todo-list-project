@@ -16,7 +16,7 @@
 .to-do-app{
     width: 100%;
     min-height: 95vh;
-    /*max-width: 540px;*/
+    max-width: 540px;
     margin: 10px auto 20px;
     background-color: #fff;
     border-radius: 10px;
